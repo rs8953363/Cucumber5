@@ -10,6 +10,7 @@ import org.junit.runner.RunWith;
                 "html:target/default-html-reports.html"},
         features = "src/test/resources/features",
         glue = "step_definitions",
+        tags = "@smoke",
         dryRun = false
 )
 

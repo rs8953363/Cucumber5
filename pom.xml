@@ -22,7 +22,7 @@
             <version>3.141.59</version>
         </dependency>
 
-        <!-- Cucumber library. It can work with Selenium-->
+        <!-- Cucumber is a library. It can work with Selenium-->
         <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
