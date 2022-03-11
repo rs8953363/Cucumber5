@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "step_definitions",
         tags = "@smoke",
-        dryRun = false
+        dryRun = false // testi çalıştırma sadece herhangi bir step eksik mi ona bak
 )
 
 public class Runner {
